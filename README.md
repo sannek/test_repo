@@ -2,7 +2,7 @@
 
 Hello I am committing things.
 
-Making a new commit hurray
+Making a new branch hurray
 
 and another one
 
