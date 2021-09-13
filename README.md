@@ -1,6 +1,6 @@
 # test_repo
 
-Hello I am testing things.
+Hello I am committing things.
 
 Making a new commit hurray
 
